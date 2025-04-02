@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Breier"
+  given-names: "Jannes"
+  orcid: "https://orcid.org/0000-0002-9055-6904"
+title: "Biosphere data for the FRIDA model"
+version: 0.1.0
+date-released: 2025-04-02
+url: "https://github.com/jnnsbrr/frida_biosphere_data"
