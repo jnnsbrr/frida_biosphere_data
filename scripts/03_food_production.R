@@ -1,7 +1,7 @@
 require(tidyverse)
 
 # paths
-project_dir <- "C:/Users/jannesbr/projects/worldtrans/frida_biosphere_data"
+project_dir <- "."
 data_dir <- file.path(project_dir, "data")
 original_data_dir <- file.path(data_dir, "original")
 
